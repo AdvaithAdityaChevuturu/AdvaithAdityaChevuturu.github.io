@@ -46,7 +46,7 @@ $res=signup($con);
 <option value="F">Female</option>
 <option value="O">Other</option>
 </select>
-<input type="text" name="birthday" class="form-field animation a4" placeholder="Birthday:06/12/1996" required/>
+<input type="text" name="birthday" class="form-field animation a4" placeholder="Birthday : 06/12/1996" required/>
 <input type="submit" name="submit" style="padding: 12px 10px; border: 0; background: linear-gradient(to right, #da22ff, #9733ee); border-radius: 3px; margin-top: 10px; color: #fff; letter-spacing: 1px; font-family: 'Century gothic', sans-serif;'" value="Signup" class="animation a6">
 <?php
 echo $res;
