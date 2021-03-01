@@ -25,7 +25,7 @@ else{
 <body>
 <nav>
 		<div class="logo">
-			<a href="homepage.html">
+			<a href="index.html">
 			<h4>CareIND</h4><img src="images/CareOurIND.png"  alt="CareIND" class="CareIND"></a>
 		</div>
 		<ul class="nav-links">
